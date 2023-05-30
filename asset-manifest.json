@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/static/css/main.64a27cea.css",
+    "main.js": "/static/js/main.315752dd.js",
+    "static/media/hmss.png": "/static/media/hmss.f4732906d55ef703e1e6.png",
+    "static/media/ecom.png": "/static/media/ecom.3acd2e69074d2d6a66c4.png",
+    "static/media/mov.png": "/static/media/mov.e642846825096496aa41.png",
+    "static/media/prius cut.png": "/static/media/prius cut.74b86571b78971542e2e.png",
+    "static/media/crudd.png": "/static/media/crudd.bf86ef568ef64b6c6023.png",
+    "static/media/glassesimoji.png": "/static/media/glassesimoji.a08bdab12e8eb56a6874.png",
+    "static/media/node.png": "/static/media/node.80c15dd0bfe93afd8167.png",
+    "static/media/thumbup.png": "/static/media/thumbup.e06790ba656f0397cbe5.png",
+    "static/media/humble.png": "/static/media/humble.c8b32b53675e68978981.png",
+    "static/media/heartemoji.png": "/static/media/heartemoji.26b1b6ed5e0e44083b28.png",
+    "static/media/wave.png": "/static/media/wave.fdfef4069ad90f610990.png",
+    "static/media/crown.png": "/static/media/crown.dbe416beae9b49b842ab.png",
+    "static/media/Vector2.png": "/static/media/Vector2.28db5bfd58081dd1df1b.png",
+    "static/media/glasses.png": "/static/media/glasses.71d7c1b0ff0b870a9d7d.png",
+    "static/media/mngg.png": "/static/media/mngg.804ac606d1045fa7ba84.png",
+    "index.html": "/index.html",
+    "main.64a27cea.css.map": "/static/css/main.64a27cea.css.map",
+    "main.315752dd.js.map": "/static/js/main.315752dd.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.64a27cea.css",
+    "static/js/main.315752dd.js"
+  ]
+}
